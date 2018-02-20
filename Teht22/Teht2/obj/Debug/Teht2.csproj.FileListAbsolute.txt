@@ -1,0 +1,8 @@
+C:\tmp\Teht2\Teht2\bin\Debug\Teht2.exe.config
+C:\tmp\Teht2\Teht2\bin\Debug\Teht2.exe
+C:\tmp\Teht2\Teht2\bin\Debug\Teht2.pdb
+C:\tmp\Teht2\Teht2\obj\Debug\Teht2.csprojResolveAssemblyReference.cache
+C:\tmp\Teht2\Teht2\obj\Debug\Teht2.exe
+C:\tmp\Teht2\Teht2\obj\Debug\Teht2.pdb
+C:\tmp\Teht2\Teht2\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\Teht2\Teht2\bin\Debug\Newtonsoft.Json.xml
